@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+/*import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -22,4 +22,16 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
+
+
+const App = () => {
+    return ( <
+        div >
+        <
+        h1 > Hello Word < /h1> <
+        /div>
+    )
+}
+
+export default App
